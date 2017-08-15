@@ -1,6 +1,6 @@
 # CountMinSketch
 
-**TODO: Add description**
+An Elixir implementation of the [Count-Min-Sketch](http://dimacs.rutgers.edu/%7Egraham/pubs/papers/cmsoft.pdf) probablistic datastructure.
 
 ## Installation
 
